@@ -2,7 +2,9 @@ sudo sed -i.bak -e "s%http://[^ ]\+%http://ftp.iij.ad.jp/pub/linux/ubuntu/archiv
 # sudo sed -i.bak -e "s%http://[^ ]\+%http://ftp.jaist.ac.jp/pub/Linux/ubuntu/%g" /etc/apt/sources.list
 cp .bash_aliases ~
 cp .vimrc ~
+cp .inputrc ~
+cp .gitconfig ~
 cd
 sudo apt update
-sudo apt install byobu
+sudo apt install vim xinput
 
