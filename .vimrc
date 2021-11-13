@@ -6,3 +6,5 @@ inoremap jj <ESC>
 nnoremap ; :
 nnoremap : ;
 
+set belloff=all
+
