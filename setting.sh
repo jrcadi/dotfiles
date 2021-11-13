@@ -8,3 +8,5 @@ cd
 sudo apt update
 sudo apt install vim xinput
 
+#デュアルブート時の時刻ズレ修正
+sudo hwclock -D --systohc --localtime
