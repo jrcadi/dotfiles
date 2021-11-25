@@ -6,7 +6,7 @@ cp .inputrc ~
 cp .gitconfig ~
 cd
 sudo apt update
-sudo apt install vim xinput
+sudo apt install vim xinput hardinfo git
 
 #デュアルブート時の時刻ズレ修正
 sudo hwclock -D --systohc --localtime
