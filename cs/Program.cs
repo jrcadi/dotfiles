@@ -11,15 +11,26 @@ namespace test02 {
         static void Main(string[] args) {
             Random random = new Random();
             int count = 12;
-	    string password = MakePassword(random, count);
+            string password = MakePassword(random, count);
             Console.WriteLine(password);
         }
         private static string MakePassword(Random random, int count) {
             string password = string.Empty;
-            password += GetNumLetter(random);
-            password += GetLowerLetter(random);
-            password += GetUpperLetter(random);
-            password += GetMarkLetter(random);
+            for(int i=0; i<count; i++){
+                int n = i % 4;
+                if(n == 0){
+                    password += GetNumLetter(random);
+                }
+                if(n == 1){
+                    password += GetLowerLetter(random);
+                }
+                if(n == 2){
+                    password += GetUpperLetter(random);
+                }
+                if(n == 3){
+                    password += GetMarkLetter(random);
+                }
+            }
             return password;
         }
         //以下の4つのメソッドはMakePasswordメソッドで呼び出される
