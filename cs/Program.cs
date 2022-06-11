@@ -4,18 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 /// <summary>
-/// Chapter1-5 パスワードを生成せよ！ （前半の部）
-/// 数字・英小文字・英大文字・記号の順に4文字をランダムに生成する
+
 /// </summary>
 namespace test02 {
     class Program {
         static void Main(string[] args) {
             Random random = new Random();
-            string password = GetNumLetter(random);
+            int count = 12;
+	    string password = MakePassword(random, count);
             Console.WriteLine(password);
         }
-        private static string MakePassword(Random random) {
-            //数字・英小文字・英大文字・記号の順に4文字をランダムに生成する
+        private static string MakePassword(Random random, int count) {
             string password = string.Empty;
             password += GetNumLetter(random);
             password += GetLowerLetter(random);
