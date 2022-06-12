@@ -1,6 +1,6 @@
 @echo off
 
-set srcPath=%1
+set srcPath=%~dp0*.cs
 set exePath=%~dp0%~n0.exe
 
 set dllPaths=system.dll,system.drawing.dll,system.windows.forms.dll,system.io.dll,System.Reflection.dll
