@@ -1,6 +1,5 @@
 @echo off
 
-
 set srcPath=%1
 set exePath=%~dp0%~n0.exe
 
