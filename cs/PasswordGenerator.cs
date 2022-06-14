@@ -12,17 +12,16 @@ namespace PasswordCreator {
         }
         public string MakePassword(int count) {
 		string password = string.Empty;
-		
 		Letter letter = new NumLetter(random);
 		password += letter.GetLetter();
 	
-		Letter letter = new LowerLetter(random);
+		letter = new LowerLetter(random);
 		password += letter.GetLetter();
 		
-		Letter letter = new UpperLetter(random);
+		letter = new UpperLetter(random);
 		password += letter.GetLetter();
 
-		Letter letter = new MarkLetter(random);
+		letter = new MarkLetter(random);
 		password += letter.GetLetter();
 	
 		return password;
