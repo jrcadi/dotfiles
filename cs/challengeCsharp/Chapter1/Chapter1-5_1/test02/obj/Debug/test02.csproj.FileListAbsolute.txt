@@ -1,0 +1,7 @@
+C:\Users\tatsudai\source\repos\180311SampleCodes_project8\test02\test02\bin\Debug\test02.exe.config
+C:\Users\tatsudai\source\repos\180311SampleCodes_project8\test02\test02\bin\Debug\test02.exe
+C:\Users\tatsudai\source\repos\180311SampleCodes_project8\test02\test02\bin\Debug\test02.pdb
+C:\Users\tatsudai\source\repos\180311SampleCodes_project8\test02\test02\obj\Debug\test02.csprojResolveAssemblyReference.cache
+C:\Users\tatsudai\source\repos\180311SampleCodes_project8\test02\test02\obj\Debug\test02.csproj.CoreCompileInputs.cache
+C:\Users\tatsudai\source\repos\180311SampleCodes_project8\test02\test02\obj\Debug\test02.exe
+C:\Users\tatsudai\source\repos\180311SampleCodes_project8\test02\test02\obj\Debug\test02.pdb

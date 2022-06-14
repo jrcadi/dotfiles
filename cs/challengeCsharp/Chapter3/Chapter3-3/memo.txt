@@ -1,0 +1,6 @@
+本サンプルコードをVisual Studioで開くときは、PasswordCreatorUI.sln をダブルクリックしてください。
+PasswordCreatorUI.sln --- WindowsFormアプリケーション
+PasswordCreator.sln   --- コンソールアプリケーション
+
+
+2018/3/12　横山達大

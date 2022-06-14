@@ -1,0 +1,18 @@
+    public class Calculation {
+        public int Execute(int n) {
+            Func<int, int> function;
+            if (n < 10){
+                function = Power;
+            } else{
+                function = GetDouble;
+            }
+            int ans = function(n);
+            return ans;
+        }
+        private int Power(int n) {
+            return n * n;
+        }
+        private int GetDouble(int n) {
+            return n * 2;
+        }
+    }

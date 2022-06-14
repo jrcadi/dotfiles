@@ -1,0 +1,7 @@
+C:\Users\tatsudai\Documents\Visual Studio 2017\Projects\Project8\DelegateTraining\DelegateTraining\bin\Debug\DelegateTraining.exe.config
+C:\Users\tatsudai\Documents\Visual Studio 2017\Projects\Project8\DelegateTraining\DelegateTraining\bin\Debug\DelegateTraining.exe
+C:\Users\tatsudai\Documents\Visual Studio 2017\Projects\Project8\DelegateTraining\DelegateTraining\bin\Debug\DelegateTraining.pdb
+C:\Users\tatsudai\Documents\Visual Studio 2017\Projects\Project8\DelegateTraining\DelegateTraining\obj\Debug\DelegateTraining.csprojResolveAssemblyReference.cache
+C:\Users\tatsudai\Documents\Visual Studio 2017\Projects\Project8\DelegateTraining\DelegateTraining\obj\Debug\DelegateTraining.csproj.CoreCompileInputs.cache
+C:\Users\tatsudai\Documents\Visual Studio 2017\Projects\Project8\DelegateTraining\DelegateTraining\obj\Debug\DelegateTraining.exe
+C:\Users\tatsudai\Documents\Visual Studio 2017\Projects\Project8\DelegateTraining\DelegateTraining\obj\Debug\DelegateTraining.pdb
