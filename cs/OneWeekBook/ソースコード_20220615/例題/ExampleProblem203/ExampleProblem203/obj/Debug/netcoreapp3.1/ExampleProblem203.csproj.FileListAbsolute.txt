@@ -1,0 +1,13 @@
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\bin\Debug\netcoreapp3.1\ExampleProblem203.exe
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\bin\Debug\netcoreapp3.1\ExampleProblem203.deps.json
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\bin\Debug\netcoreapp3.1\ExampleProblem203.runtimeconfig.json
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\bin\Debug\netcoreapp3.1\ExampleProblem203.runtimeconfig.dev.json
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\bin\Debug\netcoreapp3.1\ExampleProblem203.dll
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\bin\Debug\netcoreapp3.1\ExampleProblem203.pdb
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\obj\Debug\netcoreapp3.1\ExampleProblem203.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\obj\Debug\netcoreapp3.1\ExampleProblem203.AssemblyInfoInputs.cache
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\obj\Debug\netcoreapp3.1\ExampleProblem203.AssemblyInfo.cs
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\obj\Debug\netcoreapp3.1\ExampleProblem203.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\obj\Debug\netcoreapp3.1\ExampleProblem203.dll
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\obj\Debug\netcoreapp3.1\ExampleProblem203.pdb
+C:\Users\shift\source\repos\ExampleProblem203\ExampleProblem203\obj\Debug\netcoreapp3.1\ExampleProblem203.genruntimeconfig.cache

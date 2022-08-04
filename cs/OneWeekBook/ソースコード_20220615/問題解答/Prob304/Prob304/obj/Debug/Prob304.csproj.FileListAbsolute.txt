@@ -1,0 +1,12 @@
+C:\Users\shift\source\repos\Prob304\Prob304\bin\Debug\Prob304.exe.config
+C:\Users\shift\source\repos\Prob304\Prob304\bin\Debug\Prob304.exe
+C:\Users\shift\source\repos\Prob304\Prob304\bin\Debug\Prob304.pdb
+C:\Users\shift\source\repos\Prob304\Prob304\obj\Debug\Prob304.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Prob304\Prob304\obj\Debug\Prob304.exe
+C:\Users\shift\source\repos\Prob304\Prob304\obj\Debug\Prob304.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob304\Prob304\obj\Debug\Prob304.csproj.CoreCompileInputs.cache
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob304\Prob304\obj\Debug\Prob304.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob304\Prob304\obj\Debug\Prob304.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob304\Prob304\bin\Debug\Prob304.exe.config
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob304\Prob304\bin\Debug\Prob304.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob304\Prob304\bin\Debug\Prob304.pdb

@@ -1,0 +1,12 @@
+C:\Users\shift\source\repos\Prob403\Prob403\bin\Debug\Prob403.exe.config
+C:\Users\shift\source\repos\Prob403\Prob403\bin\Debug\Prob403.exe
+C:\Users\shift\source\repos\Prob403\Prob403\bin\Debug\Prob403.pdb
+C:\Users\shift\source\repos\Prob403\Prob403\obj\Debug\Prob403.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Prob403\Prob403\obj\Debug\Prob403.exe
+C:\Users\shift\source\repos\Prob403\Prob403\obj\Debug\Prob403.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob403\Prob403\obj\Debug\Prob403.csproj.CoreCompileInputs.cache
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob403\Prob403\obj\Debug\Prob403.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob403\Prob403\obj\Debug\Prob403.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob403\Prob403\bin\Debug\Prob403.exe.config
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob403\Prob403\bin\Debug\Prob403.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob403\Prob403\bin\Debug\Prob403.pdb

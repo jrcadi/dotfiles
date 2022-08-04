@@ -1,0 +1,13 @@
+C:\Users\shift\source\repos\Prob201\Prob201\bin\Debug\Prob201.exe.config
+C:\Users\shift\source\repos\Prob201\Prob201\bin\Debug\Prob201.exe
+C:\Users\shift\source\repos\Prob201\Prob201\bin\Debug\Prob201.pdb
+C:\Users\shift\source\repos\Prob201\Prob201\obj\Debug\Prob201.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\Prob201\Prob201\obj\Debug\Prob201.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Prob201\Prob201\obj\Debug\Prob201.exe
+C:\Users\shift\source\repos\Prob201\Prob201\obj\Debug\Prob201.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob201\Prob201\bin\Debug\Prob201.exe.config
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob201\Prob201\bin\Debug\Prob201.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob201\Prob201\bin\Debug\Prob201.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob201\Prob201\obj\Debug\Prob201.csproj.CoreCompileInputs.cache
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob201\Prob201\obj\Debug\Prob201.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob201\Prob201\obj\Debug\Prob201.pdb

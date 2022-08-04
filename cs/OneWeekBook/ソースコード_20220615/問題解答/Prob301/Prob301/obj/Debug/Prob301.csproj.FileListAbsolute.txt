@@ -1,0 +1,12 @@
+C:\Users\shift\source\repos\Prob301\Prob301\bin\Debug\Prob301.exe.config
+C:\Users\shift\source\repos\Prob301\Prob301\bin\Debug\Prob301.exe
+C:\Users\shift\source\repos\Prob301\Prob301\bin\Debug\Prob301.pdb
+C:\Users\shift\source\repos\Prob301\Prob301\obj\Debug\Prob301.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Prob301\Prob301\obj\Debug\Prob301.exe
+C:\Users\shift\source\repos\Prob301\Prob301\obj\Debug\Prob301.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob301\Prob301\bin\Debug\Prob301.exe.config
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob301\Prob301\bin\Debug\Prob301.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob301\Prob301\bin\Debug\Prob301.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob301\Prob301\obj\Debug\Prob301.csproj.CoreCompileInputs.cache
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob301\Prob301\obj\Debug\Prob301.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob301\Prob301\obj\Debug\Prob301.pdb

@@ -1,0 +1,12 @@
+C:\Users\shift\source\repos\Prob401\Prob401\bin\Debug\Prob401.exe.config
+C:\Users\shift\source\repos\Prob401\Prob401\bin\Debug\Prob401.exe
+C:\Users\shift\source\repos\Prob401\Prob401\bin\Debug\Prob401.pdb
+C:\Users\shift\source\repos\Prob401\Prob401\obj\Debug\Prob401.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Prob401\Prob401\obj\Debug\Prob401.exe
+C:\Users\shift\source\repos\Prob401\Prob401\obj\Debug\Prob401.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob401\Prob401\obj\Debug\Prob401.csproj.CoreCompileInputs.cache
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob401\Prob401\obj\Debug\Prob401.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob401\Prob401\obj\Debug\Prob401.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob401\Prob401\bin\Debug\Prob401.exe.config
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob401\Prob401\bin\Debug\Prob401.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob401\Prob401\bin\Debug\Prob401.pdb

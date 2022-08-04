@@ -1,0 +1,12 @@
+C:\Users\shift\source\repos\Prob203\Prob203\bin\Debug\Prob203.exe.config
+C:\Users\shift\source\repos\Prob203\Prob203\bin\Debug\Prob203.exe
+C:\Users\shift\source\repos\Prob203\Prob203\bin\Debug\Prob203.pdb
+C:\Users\shift\source\repos\Prob203\Prob203\obj\Debug\Prob203.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Prob203\Prob203\obj\Debug\Prob203.exe
+C:\Users\shift\source\repos\Prob203\Prob203\obj\Debug\Prob203.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob203\Prob203\bin\Debug\Prob203.exe.config
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob203\Prob203\bin\Debug\Prob203.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob203\Prob203\bin\Debug\Prob203.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob203\Prob203\obj\Debug\Prob203.csproj.CoreCompileInputs.cache
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob203\Prob203\obj\Debug\Prob203.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob203\Prob203\obj\Debug\Prob203.pdb

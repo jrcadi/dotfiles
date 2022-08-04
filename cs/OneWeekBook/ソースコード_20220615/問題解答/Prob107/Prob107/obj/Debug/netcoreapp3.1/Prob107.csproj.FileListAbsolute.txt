@@ -1,0 +1,12 @@
+C:\Users\shift\source\repos\Prob107\Prob107\bin\Debug\netcoreapp3.1\Prob107.exe
+C:\Users\shift\source\repos\Prob107\Prob107\bin\Debug\netcoreapp3.1\Prob107.deps.json
+C:\Users\shift\source\repos\Prob107\Prob107\bin\Debug\netcoreapp3.1\Prob107.runtimeconfig.json
+C:\Users\shift\source\repos\Prob107\Prob107\bin\Debug\netcoreapp3.1\Prob107.runtimeconfig.dev.json
+C:\Users\shift\source\repos\Prob107\Prob107\bin\Debug\netcoreapp3.1\Prob107.dll
+C:\Users\shift\source\repos\Prob107\Prob107\bin\Debug\netcoreapp3.1\Prob107.pdb
+C:\Users\shift\source\repos\Prob107\Prob107\obj\Debug\netcoreapp3.1\Prob107.AssemblyInfoInputs.cache
+C:\Users\shift\source\repos\Prob107\Prob107\obj\Debug\netcoreapp3.1\Prob107.AssemblyInfo.cs
+C:\Users\shift\source\repos\Prob107\Prob107\obj\Debug\netcoreapp3.1\Prob107.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Prob107\Prob107\obj\Debug\netcoreapp3.1\Prob107.dll
+C:\Users\shift\source\repos\Prob107\Prob107\obj\Debug\netcoreapp3.1\Prob107.pdb
+C:\Users\shift\source\repos\Prob107\Prob107\obj\Debug\netcoreapp3.1\Prob107.genruntimeconfig.cache

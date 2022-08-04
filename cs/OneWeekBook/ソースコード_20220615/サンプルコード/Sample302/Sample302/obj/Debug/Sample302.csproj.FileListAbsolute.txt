@@ -1,0 +1,6 @@
+C:\Users\shift\source\repos\Sample302\Sample302\bin\Debug\Sample302.exe.config
+C:\Users\shift\source\repos\Sample302\Sample302\bin\Debug\Sample302.exe
+C:\Users\shift\source\repos\Sample302\Sample302\bin\Debug\Sample302.pdb
+C:\Users\shift\source\repos\Sample302\Sample302\obj\Debug\Sample302.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample302\Sample302\obj\Debug\Sample302.exe
+C:\Users\shift\source\repos\Sample302\Sample302\obj\Debug\Sample302.pdb

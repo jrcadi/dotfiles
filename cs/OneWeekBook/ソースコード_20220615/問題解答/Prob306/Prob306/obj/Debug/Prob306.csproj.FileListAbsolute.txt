@@ -1,0 +1,12 @@
+C:\Users\shift\source\repos\Prob306\Prob306\bin\Debug\Prob306.exe.config
+C:\Users\shift\source\repos\Prob306\Prob306\bin\Debug\Prob306.exe
+C:\Users\shift\source\repos\Prob306\Prob306\bin\Debug\Prob306.pdb
+C:\Users\shift\source\repos\Prob306\Prob306\obj\Debug\Prob306.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Prob306\Prob306\obj\Debug\Prob306.exe
+C:\Users\shift\source\repos\Prob306\Prob306\obj\Debug\Prob306.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob306\Prob306\obj\Debug\Prob306.csproj.CoreCompileInputs.cache
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob306\Prob306\obj\Debug\Prob306.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob306\Prob306\obj\Debug\Prob306.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob306\Prob306\bin\Debug\Prob306.exe.config
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob306\Prob306\bin\Debug\Prob306.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob306\Prob306\bin\Debug\Prob306.pdb

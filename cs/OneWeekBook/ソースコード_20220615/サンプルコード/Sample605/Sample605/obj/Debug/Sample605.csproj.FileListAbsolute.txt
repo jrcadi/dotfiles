@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\Sample605\Sample605\bin\Debug\Sample605.exe.config
+C:\Users\shift\source\repos\Sample605\Sample605\bin\Debug\Sample605.exe
+C:\Users\shift\source\repos\Sample605\Sample605\bin\Debug\Sample605.pdb
+C:\Users\shift\source\repos\Sample605\Sample605\obj\Debug\Sample605.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample605\Sample605\obj\Debug\Sample605.exe
+C:\Users\shift\source\repos\Sample605\Sample605\obj\Debug\Sample605.pdb
+C:\Users\shift\source\repos\Sample605\Sample605\obj\Debug\Sample605.csprojAssemblyReference.cache

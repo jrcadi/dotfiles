@@ -1,0 +1,13 @@
+C:\Users\shift\source\repos\Prob305\Prob305\bin\Debug\Prob305.exe.config
+C:\Users\shift\source\repos\Prob305\Prob305\bin\Debug\Prob305.exe
+C:\Users\shift\source\repos\Prob305\Prob305\bin\Debug\Prob305.pdb
+C:\Users\shift\source\repos\Prob305\Prob305\obj\Debug\Prob305.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\Prob305\Prob305\obj\Debug\Prob305.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Prob305\Prob305\obj\Debug\Prob305.exe
+C:\Users\shift\source\repos\Prob305\Prob305\obj\Debug\Prob305.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob305\Prob305\obj\Debug\Prob305.csproj.CoreCompileInputs.cache
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob305\Prob305\obj\Debug\Prob305.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob305\Prob305\obj\Debug\Prob305.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob305\Prob305\bin\Debug\Prob305.exe.config
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob305\Prob305\bin\Debug\Prob305.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob305\Prob305\bin\Debug\Prob305.pdb

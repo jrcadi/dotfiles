@@ -1,0 +1,13 @@
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\bin\Debug\netcoreapp3.1\ExampleProblem204_2.exe
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\bin\Debug\netcoreapp3.1\ExampleProblem204_2.deps.json
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\bin\Debug\netcoreapp3.1\ExampleProblem204_2.runtimeconfig.json
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\bin\Debug\netcoreapp3.1\ExampleProblem204_2.runtimeconfig.dev.json
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\bin\Debug\netcoreapp3.1\ExampleProblem204_2.dll
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\bin\Debug\netcoreapp3.1\ExampleProblem204_2.pdb
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\obj\Debug\netcoreapp3.1\ExampleProblem204_2.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\obj\Debug\netcoreapp3.1\ExampleProblem204_2.AssemblyInfoInputs.cache
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\obj\Debug\netcoreapp3.1\ExampleProblem204_2.AssemblyInfo.cs
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\obj\Debug\netcoreapp3.1\ExampleProblem204_2.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\obj\Debug\netcoreapp3.1\ExampleProblem204_2.dll
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\obj\Debug\netcoreapp3.1\ExampleProblem204_2.pdb
+C:\Users\shift\source\repos\ExampleProblem204_2\ExampleProblem204_2\obj\Debug\netcoreapp3.1\ExampleProblem204_2.genruntimeconfig.cache

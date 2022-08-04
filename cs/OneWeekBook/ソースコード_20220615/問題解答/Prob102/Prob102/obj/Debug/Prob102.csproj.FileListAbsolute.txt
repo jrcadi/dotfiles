@@ -1,0 +1,12 @@
+C:\Users\shift\source\repos\Prob102\Prob102\bin\Debug\Prob102.exe.config
+C:\Users\shift\source\repos\Prob102\Prob102\bin\Debug\Prob102.exe
+C:\Users\shift\source\repos\Prob102\Prob102\bin\Debug\Prob102.pdb
+C:\Users\shift\source\repos\Prob102\Prob102\obj\Debug\Prob102.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Prob102\Prob102\obj\Debug\Prob102.exe
+C:\Users\shift\source\repos\Prob102\Prob102\obj\Debug\Prob102.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob102\Prob102\bin\Debug\Prob102.exe.config
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob102\Prob102\bin\Debug\Prob102.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob102\Prob102\bin\Debug\Prob102.pdb
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob102\Prob102\obj\Debug\Prob102.csproj.CoreCompileInputs.cache
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob102\Prob102\obj\Debug\Prob102.exe
+C:\Users\shift\OneDrive\デスクトップ\問題回答\Prob102\Prob102\obj\Debug\Prob102.pdb

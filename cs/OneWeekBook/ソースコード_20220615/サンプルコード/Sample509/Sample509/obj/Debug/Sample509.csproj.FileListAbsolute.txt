@@ -1,0 +1,6 @@
+C:\Users\shift\source\repos\Sample509\Sample509\bin\Debug\Sample509.exe.config
+C:\Users\shift\source\repos\Sample509\Sample509\bin\Debug\Sample509.exe
+C:\Users\shift\source\repos\Sample509\Sample509\bin\Debug\Sample509.pdb
+C:\Users\shift\source\repos\Sample509\Sample509\obj\Debug\Sample509.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample509\Sample509\obj\Debug\Sample509.exe
+C:\Users\shift\source\repos\Sample509\Sample509\obj\Debug\Sample509.pdb

@@ -1,0 +1,6 @@
+C:\Users\shift\source\repos\Sample210\Sample210\bin\Debug\Sample210.exe.config
+C:\Users\shift\source\repos\Sample210\Sample210\bin\Debug\Sample210.exe
+C:\Users\shift\source\repos\Sample210\Sample210\bin\Debug\Sample210.pdb
+C:\Users\shift\source\repos\Sample210\Sample210\obj\Debug\Sample210.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample210\Sample210\obj\Debug\Sample210.exe
+C:\Users\shift\source\repos\Sample210\Sample210\obj\Debug\Sample210.pdb

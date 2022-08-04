@@ -1,0 +1,6 @@
+C:\Users\shift\source\repos\Sample510\Sample510\obj\Debug\Sample510.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample510\Sample510\bin\Debug\Sample510.exe.config
+C:\Users\shift\source\repos\Sample510\Sample510\bin\Debug\Sample510.exe
+C:\Users\shift\source\repos\Sample510\Sample510\bin\Debug\Sample510.pdb
+C:\Users\shift\source\repos\Sample510\Sample510\obj\Debug\Sample510.exe
+C:\Users\shift\source\repos\Sample510\Sample510\obj\Debug\Sample510.pdb
