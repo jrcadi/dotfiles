@@ -1,0 +1,6 @@
+C:\Users\shift\source\repos\SampleEx603\SampleEx603\bin\Debug\SampleEx603.exe.config
+C:\Users\shift\source\repos\SampleEx603\SampleEx603\bin\Debug\SampleEx603.exe
+C:\Users\shift\source\repos\SampleEx603\SampleEx603\bin\Debug\SampleEx603.pdb
+C:\Users\shift\source\repos\SampleEx603\SampleEx603\obj\Debug\SampleEx603.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\SampleEx603\SampleEx603\obj\Debug\SampleEx603.exe
+C:\Users\shift\source\repos\SampleEx603\SampleEx603\obj\Debug\SampleEx603.pdb

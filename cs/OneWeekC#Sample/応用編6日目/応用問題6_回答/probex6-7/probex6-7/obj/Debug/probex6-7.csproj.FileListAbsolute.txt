@@ -1,0 +1,5 @@
+C:\Users\owner\Desktop\回答\probex6-7\probex6-7\bin\Debug\probex6-7.exe.config
+C:\Users\owner\Desktop\回答\probex6-7\probex6-7\bin\Debug\probex6-7.exe
+C:\Users\owner\Desktop\回答\probex6-7\probex6-7\bin\Debug\probex6-7.pdb
+C:\Users\owner\Desktop\回答\probex6-7\probex6-7\obj\Debug\probex6-7.exe
+C:\Users\owner\Desktop\回答\probex6-7\probex6-7\obj\Debug\probex6-7.pdb

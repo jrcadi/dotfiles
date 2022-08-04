@@ -1,0 +1,6 @@
+C:\Users\shift\source\repos\Sample504\Sample504\bin\Debug\Sample504.exe.config
+C:\Users\shift\source\repos\Sample504\Sample504\bin\Debug\Sample504.exe
+C:\Users\shift\source\repos\Sample504\Sample504\bin\Debug\Sample504.pdb
+C:\Users\shift\source\repos\Sample504\Sample504\obj\Debug\Sample504.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample504\Sample504\obj\Debug\Sample504.exe
+C:\Users\shift\source\repos\Sample504\Sample504\obj\Debug\Sample504.pdb

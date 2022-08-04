@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\Sample701\Sample701\bin\Debug\Sample701.exe.config
+C:\Users\shift\source\repos\Sample701\Sample701\bin\Debug\Sample701.exe
+C:\Users\shift\source\repos\Sample701\Sample701\bin\Debug\Sample701.pdb
+C:\Users\shift\source\repos\Sample701\Sample701\obj\Debug\Sample701.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\Sample701\Sample701\obj\Debug\Sample701.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample701\Sample701\obj\Debug\Sample701.exe
+C:\Users\shift\source\repos\Sample701\Sample701\obj\Debug\Sample701.pdb

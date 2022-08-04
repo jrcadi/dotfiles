@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\Exercise504\Exercise504\bin\Debug\Exercise504.exe.config
+C:\Users\shift\source\repos\Exercise504\Exercise504\bin\Debug\Exercise504.exe
+C:\Users\shift\source\repos\Exercise504\Exercise504\bin\Debug\Exercise504.pdb
+C:\Users\shift\source\repos\Exercise504\Exercise504\obj\Debug\Exercise504.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\Exercise504\Exercise504\obj\Debug\Exercise504.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Exercise504\Exercise504\obj\Debug\Exercise504.exe
+C:\Users\shift\source\repos\Exercise504\Exercise504\obj\Debug\Exercise504.pdb

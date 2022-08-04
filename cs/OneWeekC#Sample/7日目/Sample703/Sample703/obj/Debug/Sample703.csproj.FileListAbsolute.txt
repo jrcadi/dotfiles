@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\Sample703\Sample703\bin\Debug\Sample703.exe.config
+C:\Users\shift\source\repos\Sample703\Sample703\bin\Debug\Sample703.exe
+C:\Users\shift\source\repos\Sample703\Sample703\bin\Debug\Sample703.pdb
+C:\Users\shift\source\repos\Sample703\Sample703\obj\Debug\Sample703.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\Sample703\Sample703\obj\Debug\Sample703.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample703\Sample703\obj\Debug\Sample703.exe
+C:\Users\shift\source\repos\Sample703\Sample703\obj\Debug\Sample703.pdb

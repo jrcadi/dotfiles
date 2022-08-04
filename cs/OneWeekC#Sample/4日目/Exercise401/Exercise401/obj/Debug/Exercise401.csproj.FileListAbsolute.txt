@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\Exercise401\Exercise401\bin\Debug\Exercise401.exe.config
+C:\Users\shift\source\repos\Exercise401\Exercise401\bin\Debug\Exercise401.exe
+C:\Users\shift\source\repos\Exercise401\Exercise401\bin\Debug\Exercise401.pdb
+C:\Users\shift\source\repos\Exercise401\Exercise401\obj\Debug\Exercise401.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\Exercise401\Exercise401\obj\Debug\Exercise401.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Exercise401\Exercise401\obj\Debug\Exercise401.exe
+C:\Users\shift\source\repos\Exercise401\Exercise401\obj\Debug\Exercise401.pdb

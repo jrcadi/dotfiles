@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\Exercise402\Exercise402\bin\Debug\Exercise402.exe.config
+C:\Users\shift\source\repos\Exercise402\Exercise402\bin\Debug\Exercise402.exe
+C:\Users\shift\source\repos\Exercise402\Exercise402\bin\Debug\Exercise402.pdb
+C:\Users\shift\source\repos\Exercise402\Exercise402\obj\Debug\Exercise402.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\Exercise402\Exercise402\obj\Debug\Exercise402.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Exercise402\Exercise402\obj\Debug\Exercise402.exe
+C:\Users\shift\source\repos\Exercise402\Exercise402\obj\Debug\Exercise402.pdb

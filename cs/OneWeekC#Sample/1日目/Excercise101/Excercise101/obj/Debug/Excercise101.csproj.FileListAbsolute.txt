@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\Excercise101\Excercise101\bin\Debug\Excercise101.exe.config
+C:\Users\shift\source\repos\Excercise101\Excercise101\bin\Debug\Excercise101.exe
+C:\Users\shift\source\repos\Excercise101\Excercise101\bin\Debug\Excercise101.pdb
+C:\Users\shift\source\repos\Excercise101\Excercise101\obj\Debug\Excercise101.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\Excercise101\Excercise101\obj\Debug\Excercise101.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Excercise101\Excercise101\obj\Debug\Excercise101.exe
+C:\Users\shift\source\repos\Excercise101\Excercise101\obj\Debug\Excercise101.pdb

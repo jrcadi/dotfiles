@@ -1,0 +1,6 @@
+C:\Users\shift\source\repos\Sample502\Sample502\bin\Debug\Sample502.exe.config
+C:\Users\shift\source\repos\Sample502\Sample502\bin\Debug\Sample502.exe
+C:\Users\shift\source\repos\Sample502\Sample502\bin\Debug\Sample502.pdb
+C:\Users\shift\source\repos\Sample502\Sample502\obj\Debug\Sample502.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample502\Sample502\obj\Debug\Sample502.exe
+C:\Users\shift\source\repos\Sample502\Sample502\obj\Debug\Sample502.pdb

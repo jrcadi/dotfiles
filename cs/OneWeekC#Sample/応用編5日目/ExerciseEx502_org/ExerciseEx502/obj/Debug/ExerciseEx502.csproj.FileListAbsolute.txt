@@ -1,0 +1,6 @@
+C:\Users\shift\source\repos\ExerciseEx502\ExerciseEx502\bin\Debug\ExerciseEx502.exe.config
+C:\Users\shift\source\repos\ExerciseEx502\ExerciseEx502\bin\Debug\ExerciseEx502.exe
+C:\Users\shift\source\repos\ExerciseEx502\ExerciseEx502\bin\Debug\ExerciseEx502.pdb
+C:\Users\shift\source\repos\ExerciseEx502\ExerciseEx502\obj\Debug\ExerciseEx502.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\ExerciseEx502\ExerciseEx502\obj\Debug\ExerciseEx502.exe
+C:\Users\shift\source\repos\ExerciseEx502\ExerciseEx502\obj\Debug\ExerciseEx502.pdb

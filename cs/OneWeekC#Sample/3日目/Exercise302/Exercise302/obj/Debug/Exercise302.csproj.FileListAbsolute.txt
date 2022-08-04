@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\Exercise302\Exercise302\bin\Debug\Exercise302.exe.config
+C:\Users\shift\source\repos\Exercise302\Exercise302\bin\Debug\Exercise302.exe
+C:\Users\shift\source\repos\Exercise302\Exercise302\bin\Debug\Exercise302.pdb
+C:\Users\shift\source\repos\Exercise302\Exercise302\obj\Debug\Exercise302.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\Exercise302\Exercise302\obj\Debug\Exercise302.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Exercise302\Exercise302\obj\Debug\Exercise302.exe
+C:\Users\shift\source\repos\Exercise302\Exercise302\obj\Debug\Exercise302.pdb

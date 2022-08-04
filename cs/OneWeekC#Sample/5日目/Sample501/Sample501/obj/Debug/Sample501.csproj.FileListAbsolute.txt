@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\Sample501\Sample501\bin\Debug\Sample501.exe.config
+C:\Users\shift\source\repos\Sample501\Sample501\bin\Debug\Sample501.exe
+C:\Users\shift\source\repos\Sample501\Sample501\bin\Debug\Sample501.pdb
+C:\Users\shift\source\repos\Sample501\Sample501\obj\Debug\Sample501.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\Sample501\Sample501\obj\Debug\Sample501.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample501\Sample501\obj\Debug\Sample501.exe
+C:\Users\shift\source\repos\Sample501\Sample501\obj\Debug\Sample501.pdb

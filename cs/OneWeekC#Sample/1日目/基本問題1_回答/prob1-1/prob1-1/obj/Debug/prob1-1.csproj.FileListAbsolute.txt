@@ -1,0 +1,6 @@
+C:\Users\owner\Desktop\回答\prob1-1\prob1-1\bin\Debug\prob1-1.exe.config
+C:\Users\owner\Desktop\回答\prob1-1\prob1-1\bin\Debug\prob1-1.exe
+C:\Users\owner\Desktop\回答\prob1-1\prob1-1\bin\Debug\prob1-1.pdb
+C:\Users\owner\Desktop\回答\prob1-1\prob1-1\obj\Debug\prob1-1.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\回答\prob1-1\prob1-1\obj\Debug\prob1-1.exe
+C:\Users\owner\Desktop\回答\prob1-1\prob1-1\obj\Debug\prob1-1.pdb

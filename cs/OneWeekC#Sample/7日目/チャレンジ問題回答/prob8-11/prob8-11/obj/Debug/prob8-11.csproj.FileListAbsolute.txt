@@ -1,0 +1,5 @@
+C:\Users\owner\Desktop\回答\prob8-11\prob8-11\bin\Debug\prob8-11.exe.config
+C:\Users\owner\Desktop\回答\prob8-11\prob8-11\bin\Debug\prob8-11.exe
+C:\Users\owner\Desktop\回答\prob8-11\prob8-11\bin\Debug\prob8-11.pdb
+C:\Users\owner\Desktop\回答\prob8-11\prob8-11\obj\Debug\prob8-11.exe
+C:\Users\owner\Desktop\回答\prob8-11\prob8-11\obj\Debug\prob8-11.pdb

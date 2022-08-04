@@ -1,0 +1,6 @@
+C:\Users\shift\source\repos\Sample406\Sample406\bin\Debug\Sample406.exe.config
+C:\Users\shift\source\repos\Sample406\Sample406\bin\Debug\Sample406.exe
+C:\Users\shift\source\repos\Sample406\Sample406\bin\Debug\Sample406.pdb
+C:\Users\shift\source\repos\Sample406\Sample406\obj\Debug\Sample406.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample406\Sample406\obj\Debug\Sample406.exe
+C:\Users\shift\source\repos\Sample406\Sample406\obj\Debug\Sample406.pdb

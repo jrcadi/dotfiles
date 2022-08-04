@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\Sample403\Sample403\bin\Debug\Sample403.exe.config
+C:\Users\shift\source\repos\Sample403\Sample403\bin\Debug\Sample403.exe
+C:\Users\shift\source\repos\Sample403\Sample403\bin\Debug\Sample403.pdb
+C:\Users\shift\source\repos\Sample403\Sample403\obj\Debug\Sample403.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\Sample403\Sample403\obj\Debug\Sample403.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample403\Sample403\obj\Debug\Sample403.exe
+C:\Users\shift\source\repos\Sample403\Sample403\obj\Debug\Sample403.pdb

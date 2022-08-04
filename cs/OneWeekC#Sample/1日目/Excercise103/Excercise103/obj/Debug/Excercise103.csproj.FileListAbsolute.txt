@@ -1,0 +1,6 @@
+C:\Users\shift\source\repos\Excercise103\Excercise103\bin\Debug\Excercise103.exe.config
+C:\Users\shift\source\repos\Excercise103\Excercise103\bin\Debug\Excercise103.exe
+C:\Users\shift\source\repos\Excercise103\Excercise103\bin\Debug\Excercise103.pdb
+C:\Users\shift\source\repos\Excercise103\Excercise103\obj\Debug\Excercise103.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Excercise103\Excercise103\obj\Debug\Excercise103.exe
+C:\Users\shift\source\repos\Excercise103\Excercise103\obj\Debug\Excercise103.pdb

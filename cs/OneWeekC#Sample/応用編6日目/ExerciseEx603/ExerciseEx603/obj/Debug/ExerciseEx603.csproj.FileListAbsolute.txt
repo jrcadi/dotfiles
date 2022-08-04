@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\ExerciseEx603\ExerciseEx603\bin\Debug\ExerciseEx603.exe.config
+C:\Users\shift\source\repos\ExerciseEx603\ExerciseEx603\bin\Debug\ExerciseEx603.exe
+C:\Users\shift\source\repos\ExerciseEx603\ExerciseEx603\bin\Debug\ExerciseEx603.pdb
+C:\Users\shift\source\repos\ExerciseEx603\ExerciseEx603\obj\Debug\ExerciseEx603.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\ExerciseEx603\ExerciseEx603\obj\Debug\ExerciseEx603.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\ExerciseEx603\ExerciseEx603\obj\Debug\ExerciseEx603.exe
+C:\Users\shift\source\repos\ExerciseEx603\ExerciseEx603\obj\Debug\ExerciseEx603.pdb

@@ -1,0 +1,6 @@
+C:\Users\owner\Desktop\回答\probex1-2\probex1-2\bin\Debug\probex1-2.exe.config
+C:\Users\owner\Desktop\回答\probex1-2\probex1-2\bin\Debug\probex1-2.exe
+C:\Users\owner\Desktop\回答\probex1-2\probex1-2\bin\Debug\probex1-2.pdb
+C:\Users\owner\Desktop\回答\probex1-2\probex1-2\obj\Debug\probex1-2.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\回答\probex1-2\probex1-2\obj\Debug\probex1-2.exe
+C:\Users\owner\Desktop\回答\probex1-2\probex1-2\obj\Debug\probex1-2.pdb

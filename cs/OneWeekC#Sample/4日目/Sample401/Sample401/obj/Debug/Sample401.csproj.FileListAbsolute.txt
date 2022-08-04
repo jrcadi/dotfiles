@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\Sample401\Sample401\bin\Debug\Sample401.exe.config
+C:\Users\shift\source\repos\Sample401\Sample401\bin\Debug\Sample401.exe
+C:\Users\shift\source\repos\Sample401\Sample401\bin\Debug\Sample401.pdb
+C:\Users\shift\source\repos\Sample401\Sample401\obj\Debug\Sample401.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample401\Sample401\obj\Debug\Sample401.exe
+C:\Users\shift\source\repos\Sample401\Sample401\obj\Debug\Sample401.pdb
+C:\Users\shift\source\repos\Sample401\Sample401\obj\Debug\Sample401.csprojAssemblyReference.cache

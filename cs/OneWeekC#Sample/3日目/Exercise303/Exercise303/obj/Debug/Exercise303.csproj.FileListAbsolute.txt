@@ -1,0 +1,6 @@
+C:\Users\shift\source\repos\Exercise303\Exercise303\bin\Debug\Exercise303.exe.config
+C:\Users\shift\source\repos\Exercise303\Exercise303\bin\Debug\Exercise303.exe
+C:\Users\shift\source\repos\Exercise303\Exercise303\bin\Debug\Exercise303.pdb
+C:\Users\shift\source\repos\Exercise303\Exercise303\obj\Debug\Exercise303.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Exercise303\Exercise303\obj\Debug\Exercise303.exe
+C:\Users\shift\source\repos\Exercise303\Exercise303\obj\Debug\Exercise303.pdb

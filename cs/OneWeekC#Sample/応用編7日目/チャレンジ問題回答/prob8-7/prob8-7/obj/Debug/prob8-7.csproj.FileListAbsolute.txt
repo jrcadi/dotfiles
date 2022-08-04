@@ -1,0 +1,6 @@
+C:\Users\owner\Desktop\回答\prob8-7\prob8-7\bin\Debug\prob8-7.exe.config
+C:\Users\owner\Desktop\回答\prob8-7\prob8-7\bin\Debug\prob8-7.exe
+C:\Users\owner\Desktop\回答\prob8-7\prob8-7\bin\Debug\prob8-7.pdb
+C:\Users\owner\Desktop\回答\prob8-7\prob8-7\obj\Debug\prob8-7.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\回答\prob8-7\prob8-7\obj\Debug\prob8-7.exe
+C:\Users\owner\Desktop\回答\prob8-7\prob8-7\obj\Debug\prob8-7.pdb
