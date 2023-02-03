@@ -6,7 +6,7 @@ cp .inputrc ~
 cp .gitconfig ~
 cd
 sudo apt update
-sudo apt install vim xinput hardinfo git guake acpi
+sudo apt install vim xinput hardinfo git guake acpi powertop tlp
 
 #デュアルブート時の時刻ズレ修正
 sudo hwclock -D --systohc --localtime
