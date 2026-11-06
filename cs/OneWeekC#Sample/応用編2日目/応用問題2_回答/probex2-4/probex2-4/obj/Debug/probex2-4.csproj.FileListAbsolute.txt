@@ -1,5 +1,0 @@
-C:\Users\owner\Desktop\回答\probex2-4\probex2-4\bin\Debug\probex2-4.exe.config
-C:\Users\owner\Desktop\回答\probex2-4\probex2-4\bin\Debug\probex2-4.exe
-C:\Users\owner\Desktop\回答\probex2-4\probex2-4\bin\Debug\probex2-4.pdb
-C:\Users\owner\Desktop\回答\probex2-4\probex2-4\obj\Debug\probex2-4.exe
-C:\Users\owner\Desktop\回答\probex2-4\probex2-4\obj\Debug\probex2-4.pdb

@@ -1,6 +1,0 @@
-C:\Users\shift\source\repos\Sample607\Sample607\bin\Debug\Sample607.exe.config
-C:\Users\shift\source\repos\Sample607\Sample607\bin\Debug\Sample607.exe
-C:\Users\shift\source\repos\Sample607\Sample607\bin\Debug\Sample607.pdb
-C:\Users\shift\source\repos\Sample607\Sample607\obj\Debug\Sample607.csproj.CoreCompileInputs.cache
-C:\Users\shift\source\repos\Sample607\Sample607\obj\Debug\Sample607.exe
-C:\Users\shift\source\repos\Sample607\Sample607\obj\Debug\Sample607.pdb

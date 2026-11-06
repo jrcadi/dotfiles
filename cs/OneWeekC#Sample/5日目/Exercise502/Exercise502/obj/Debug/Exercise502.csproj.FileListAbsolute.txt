@@ -1,6 +1,0 @@
-C:\Users\shift\source\repos\Exercise502\Exercise502\bin\Debug\Exercise502.exe.config
-C:\Users\shift\source\repos\Exercise502\Exercise502\bin\Debug\Exercise502.exe
-C:\Users\shift\source\repos\Exercise502\Exercise502\bin\Debug\Exercise502.pdb
-C:\Users\shift\source\repos\Exercise502\Exercise502\obj\Debug\Exercise502.csproj.CoreCompileInputs.cache
-C:\Users\shift\source\repos\Exercise502\Exercise502\obj\Debug\Exercise502.exe
-C:\Users\shift\source\repos\Exercise502\Exercise502\obj\Debug\Exercise502.pdb
